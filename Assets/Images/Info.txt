@@ -1,0 +1,8 @@
+ti stands for text image.
+
+1:white
+2:light gray
+3:gray
+4:dark gray
+5:black
+6:new line
